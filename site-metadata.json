@@ -48,7 +48,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/GABSC-logo_v2017-01.svg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"
