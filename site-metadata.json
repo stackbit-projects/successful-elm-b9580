@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Schedule",
                 "url": "/signup",
                 "style": "primary"
             }
