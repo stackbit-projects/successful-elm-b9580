@@ -8,7 +8,7 @@
         "nav_links": [
             {
                 "label": "Activities",
-                "url": "/",
+                "url": "/activities",
                 "style": "link"
             },
             {
