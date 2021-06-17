@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/GABSC-logo_v2017-01.svg",
+        "logo_img": "images/GABSC-logo_v2017-01.png",
         "logo_img_alt": "Great American Banana Split Celebration logo",
         "has_nav": true,
         "nav_links": [
